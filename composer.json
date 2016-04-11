@@ -1,0 +1,12 @@
+{
+    "name": "sabartampubolon/geoip",
+    "description": "Simple Geo Location Information using IP Address",
+    "license": "Pistarlabs Digital Solusi",
+    "authors": [
+        {
+            "name": "sabartampubolon",
+            "email": "sabartampubolon@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
