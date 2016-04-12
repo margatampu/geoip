@@ -8,5 +8,8 @@
             "email": "sabartampubolon@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0": { "Geoip": "src/" }
+    },
     "minimum-stability": "stable"
 }
