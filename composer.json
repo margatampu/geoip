@@ -9,7 +9,19 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Geoip\\": "src/" }
+        "psr-4": {
+            "Sabartampubolon\\": "src/"
+        }
     },
-    "minimum-stability": "stable"
+    "autoload-dev": {
+        "psr-4": {
+            "Sabartampubolon\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4-dev"
+        }
+    },
+    "minimum-stability": "dev"
 }
